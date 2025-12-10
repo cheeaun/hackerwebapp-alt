@@ -21,13 +21,14 @@
         "https://raw.githubusercontent.com/cheeaun/hackerweb-native-2/main/screenshots/hackerweb-story-light.png",
         "https://raw.githubusercontent.com/cheeaun/hackerweb-native-2/main/screenshots/hackerweb-story-dark.png"
       ],
+      "fediUsername": "hackerweb",
       "versions": [
         {
           "version": "3.0.1",
           "buildVersion": "50",
           "date": "2025-12-02",
           "minOSVersion": "26.0",
-          "downloadURL": "https://raw.githubusercontent.com/cheeaun/hackerwebapp-alt/main/adp/manifest.json"
+          "downloadURL": "https://alt.hackerwebapp.com/adp/manifest.json"
         }
       ],
       "appPermissions": {
