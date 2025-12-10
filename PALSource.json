@@ -5,6 +5,7 @@
   "iconURL": "https://raw.githubusercontent.com/cheeaun/hackerweb-native-2/main/assets/icon.png",
   "website": "https://hackerwebapp.com/",
   "tintColor": "#FF6600",
+  "fediUsername": "hackerweb",
   "apps": [
     {
       "name": "HackerWeb",
@@ -21,7 +22,6 @@
         "https://raw.githubusercontent.com/cheeaun/hackerweb-native-2/main/screenshots/hackerweb-story-light.png",
         "https://raw.githubusercontent.com/cheeaun/hackerweb-native-2/main/screenshots/hackerweb-story-dark.png"
       ],
-      "fediUsername": "hackerweb",
       "versions": [
         {
           "version": "3.0.1",
